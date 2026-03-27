@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Github URL: (https://github.com/Shelley960/contact-form-main)
+- Github URL: (https://github.com/Shelley960/Lab1-dynamic-shopping-cart)
 
 ## My process
 
